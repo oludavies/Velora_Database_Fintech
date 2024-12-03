@@ -1,5 +1,5 @@
 # Velora_Database_Fintech
- Database design for a fictituous fintech company named Velora
+ Database design for a fictitious fintech company named Velora
 
 # Overview of Key Entities
 
